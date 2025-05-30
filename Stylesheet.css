@@ -1,8 +1,8 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(231, 224, 212);
 }
 h1 {
-  color: blue;
+  color: rgb(2, 2, 31);
   font-size: 2em;
 }
 p {
@@ -13,3 +13,7 @@ p {
 div.a {
   text-align: right;
 } 
+
+div.content { width: 750px }
+
+body{ margin: 300px; auto; }
