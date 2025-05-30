@@ -28,4 +28,8 @@ Paul Trudeau
 # Technology Used
     - HTML, CSS, Bootstrap, Github and Wireframe
 
+# Future improvements
+    - more detailed website with greater use of HTML markup features.
+    
+
 
