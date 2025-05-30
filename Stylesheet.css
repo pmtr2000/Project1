@@ -32,3 +32,9 @@ btn-xl {
     text-align: justify;
 
 }
+
+  .form-container {
+     display: grid;
+     place-items: center;
+     height: 100vh; /* Optional: For full screen height */
+   }
