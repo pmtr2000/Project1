@@ -1,5 +1,8 @@
-element {
-         background-image: url(./Imagefolder/background.jpg')
+body {
+    background-image: url('./Imagefolder/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover
+
 }
 h1 {
   color: rgb(2, 2, 31);
