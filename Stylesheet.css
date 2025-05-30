@@ -36,7 +36,7 @@ btn-xl {
   .form-container {
      display: grid;
      place-items: right;
-     height: 100vh; /* Optional: For full screen height */
+     
    }
 
 .center {
