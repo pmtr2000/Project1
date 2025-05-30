@@ -1,5 +1,5 @@
-body {
-  background-color: rgb(231, 224, 212);
+element {
+         background-image: url(./Imagefolder/background.jpg')
 }
 h1 {
   color: rgb(2, 2, 31);
@@ -17,3 +17,9 @@ div.a {
 div.content { width: 750px }
 
 body{ margin: 300px; auto; }
+
+
+btn-xl {
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;}
