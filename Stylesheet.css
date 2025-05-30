@@ -17,12 +17,18 @@ div.a {
   text-align: right;
 } 
 
-div.content { width: 750px }
+div.content { width: 700px }
 
-body{ margin: 300px; auto; }
+body { margin:0 auto; max-width: 700px; }
 
 
 btn-xl {
   padding: 10px 20px;
   font-size: 20px;
   border-radius: 10px;}
+
+  div.b {
+    
+    text-align: justify;
+
+}
