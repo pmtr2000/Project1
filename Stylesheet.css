@@ -35,6 +35,11 @@ btn-xl {
 
   .form-container {
      display: grid;
-     place-items: center;
+     place-items: right;
      height: 100vh; /* Optional: For full screen height */
    }
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
