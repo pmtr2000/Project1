@@ -26,7 +26,7 @@ Paul Trudeau
     detail product information and pricing. 
 
 # Technology Used
-    - HTML, CSS, Bootstrap, Github and Wireframe
+    - HTML, CSS, Bootstrap, Github and Wireframe.
 
 # Future improvements
     - more detailed website with greater use of HTML markup features.
