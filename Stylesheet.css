@@ -53,3 +53,8 @@ btn-xl {
        border-radius: 5px; /* Adds rounded corners */
        cursor: pointer; /* Changes the cursor to a pointer on hover */
    }
+
+img {
+  display: block;
+  margin: auto;
+}
