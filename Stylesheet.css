@@ -43,6 +43,7 @@ btn-xl {
   margin-left: auto;
   margin-right: auto;
 }
+th {padding: 8px; border: 1px solid #0e0808; text-align: left;}
 
 .button {
        display: inline-block; /* Makes the link a block-level element */
